@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://jessbecoding.github.io/](https://jessbecoding.github.io/)
+- 👨‍💻 All of my projects are available at [www.jessbecoding.com](www.jessbecoding.com)
 
 - 📝 I regularly write articles on [https://medium.com/@jessbecoding](https://medium.com/@jessbecoding)
 
