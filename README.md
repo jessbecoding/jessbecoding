@@ -1,6 +1,6 @@
-# 💫 About Me:
+# <h1 align="center">💫 About Me:</h1>
 
-<h1 align="center">Howdy 👋, I'm Jessika!</h1>
+<h2 align="center">Howdy 👋, I'm Jessika!</h2>
 <h3 align="center">A junior software developer & engineer</h3>
 🔭 I’m currently working on my AWS Cloud Practitioner Certification<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about my pets
 
